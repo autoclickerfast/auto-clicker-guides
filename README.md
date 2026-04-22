@@ -48,3 +48,4 @@ We take your privacy seriously. **Auto Clicker Fast** requires the **Accessibili
 
 *Developed by itdragon | 100% Free | No Root Needed*
 
+![Auto Clicker Fast Interface](./images/screenshot/google-play.jpg)
